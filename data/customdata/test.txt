@@ -316,13 +316,4 @@
 ./data/customdata/images/SImage_71.jpg
 ./data/customdata/images/SImage_83.jpg
 ./data/customdata/images/SImage_95.jpg
-./data/customdata/images/eva6_boot_18.jpg
-./data/customdata/images/eva6_boot_4.jpg
-./data/customdata/images/eva6_hardhat_13.jpg
-./data/customdata/images/eva6_hardhat_22.jpg
-./data/customdata/images/eva6_hardhat_9.jpg
-./data/customdata/images/eva6_mask_18.jpg
-./data/customdata/images/eva6_mask_4.jpg
-./data/customdata/images/eva6_vest_13.jpg
-./data/customdata/images/eva6_vest_22.jpg
-./data/customdata/images/eva6_vest_9.jpg
+
